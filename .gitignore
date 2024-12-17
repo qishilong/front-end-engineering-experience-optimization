@@ -24,3 +24,5 @@ TestResults.xml
 .DS_Store
 
 notes/images
+
+node_modules
